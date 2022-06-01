@@ -1,7 +1,6 @@
-Pillow
-numpy
-streamlit
+build-essential
+libgtk-3-dev
+libboost-all-dev
+freeglut3-dev
 cmake
-wheel
-dlib
-face_recognition
+libopenblas-dev
