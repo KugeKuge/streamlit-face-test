@@ -22,5 +22,4 @@ dependencies:
 - dlib
 - opencv
 - face_recognition
-- pip:
-  - streamlit
+- streamlit
