@@ -3,7 +3,6 @@ channels:
 - conda-forge
 dependencies:
 - streamlit
-- dlib
 - Pillow
 - numpy
 - face_recognition
