@@ -1,8 +1,0 @@
-name: test
-channels:
-- conda-forge
-dependencies:
-- streamlit
-- Pillow
-- numpy
-- face_recognition
