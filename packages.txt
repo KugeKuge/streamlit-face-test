@@ -1,0 +1,7 @@
+Pillow
+numpy
+streamlit
+cmake
+wheel
+dlib
+face_recognition
